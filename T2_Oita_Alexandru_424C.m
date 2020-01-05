@@ -1,5 +1,5 @@
 clear all
-clear all
+close all
 clc
 % Determinarea seriei Fourier complexe
 % Nr ordine: 19
